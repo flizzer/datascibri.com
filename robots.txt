@@ -1,1 +1,1 @@
-Sitemap: https://flizzer.github.io/hacksbynight.org/sitemap.xml
+Sitemap: https://flizzer.github.io/datascibri.com/sitemap.xml
